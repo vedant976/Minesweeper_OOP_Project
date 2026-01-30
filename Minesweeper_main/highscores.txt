@@ -1,0 +1,4 @@
+Easy: 12s
+Medium: 42s
+Hard: 110s
+Custom: 75s
